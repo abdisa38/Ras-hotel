@@ -3,7 +3,7 @@ export const hotelInfo = {
   tagline: 'Experience Comfort and Luxury in the Heart of Asella',
   description: 'Welcome to Asella Ras Hotel and Resort, where comfort, elegance, and exceptional hospitality come together.',
   location: 'Asela, Ethiopia',
-  phones: ['091 120 1027', '+251223311089'],
+  phones: ['091 120 1027', '+251223311089', '0987335353', '022381665', '022381920'],
   email: 'info@rashotel.com',
   telegram: '@rashotel',
   coordinates: { lat: 7.9539, lng: 39.1353 },
