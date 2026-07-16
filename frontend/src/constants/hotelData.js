@@ -1,11 +1,11 @@
 export const hotelInfo = {
-  name: 'Soljam Hotel',
-  tagline: 'Enjoy a cozy stay in Asela, Ethiopia, with warm hospitality',
-  description: 'Welcome to Soljam Hotel, located centrally in Asela in front of Derartu Hotel. Discover a tranquil retreat providing cozy accommodations equipped with essential amenities for a delightful stay. Whether traveling for leisure or business, you will find the perfect balance of comfort and convenience.',
-  location: 'X43J+JXQ, Infront Of Derartu Hotel, Asela, Ethiopia',
-  phones: ['+251 92 280 6372', '+251 22 331 2930'],
-  email: 'info@soljamhotel.com',
-  telegram: '@soljamhotel',
+  name: 'Asella Ras Hotel and Resort',
+  tagline: 'Experience Comfort and Luxury in the Heart of Asella',
+  description: 'Welcome to Asella Ras Hotel and Resort, where comfort, elegance, and exceptional hospitality come together.',
+  location: 'Asela, Ethiopia',
+  phones: ['091 120 1027', '+251223311089'],
+  email: 'info@rashotel.com',
+  telegram: '@rashotel',
   coordinates: { lat: 7.9539, lng: 39.1353 },
 }
 
@@ -121,22 +121,32 @@ export const attractions = [
 
 export const testimonials = [
   {
-    name: 'Dawit G.',
-    role: 'Business Traveler',
-    content: 'Great budget stop. The location is central and it was easy to get around Asela.',
-    rating: 4,
+    name: 'Gashaw Demissie Tulema',
+    role: 'Guest',
+    rating: 5,
+    text: 'Stayed 4 nights. Excellent experience. The spacious compound makes it feel like a private resort. Rooms were clean, modern, and very relaxing with WiFi facilities.',
+    image: 'https://cdn-icons-png.flaticon.com/512/149/149071.png',
   },
   {
-    name: 'Noccio N.',
-    role: 'Tourist',
-    content: 'Soljam hotel is one of the best you can get in town. Good bar and restaurant.',
-    rating: 4,
+    name: 'Ababu getachew',
+    role: 'Guest',
+    rating: 5,
+    text: 'Hey it is nostalgia i opened the window streches chilalo mountain proudly i feel like trekkkking and the air is pure amid the fragnance of the high land trees rooms clean the service intact what i like most is the view in to the riftvalley fabulous',
+    image: 'https://cdn-icons-png.flaticon.com/512/149/149071.png',
   },
   {
-    name: 'Giacomo C.',
-    role: 'Traveler',
-    content: 'Very affordable prices and located right on the main road of Asela.',
-    rating: 3,
+    name: 'Daniel Dechasa',
+    role: 'Local Guide',
+    rating: 5,
+    text: 'This is the only best Hotel in Assela customers service , the accommodation , the wifi is , their rooms are cozy, the price is fair, 24 hrs hot water.... 5 ⭐⭐⭐⭐⭐',
+    image: 'https://cdn-icons-png.flaticon.com/512/149/149071.png',
+  },
+  {
+    name: 'henery negash',
+    role: 'Guest',
+    rating: 5,
+    text: 'Nice Ethiopian hospitality with genuine heart warming reception',
+    image: 'https://cdn-icons-png.flaticon.com/512/149/149071.png',
   },
 ]
 

@@ -18,7 +18,7 @@ import { hotelInfo, stats, services, rooms, testimonials, faqs } from '../consta
 const Home = () => {
   const heroImages = [
     'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-uL8uJxZpIxE0fad0OOlBTMiUrlFEt5Tt41CfZp25evrOKXmPwykYgMrUzoLXkHHK2nA90puUZCZY5w9y-jJgJ0KqsGMRSLGYpOXANCrj_b_GGDOG8KYOJPhVTHhe36u2vxuzTFVy9wzX=s680-w680-h510-rw',
-    'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnIZm4VUNpdsZyqnmbVzq2tt91Kfh9a2gzYuxbBnEvk8XyMkHQTGt7hTbo8WWBRbZYTmXpv2f97NrjSTxH0jNN6sJCpd4O9TL-dUVWMC32zqbnTPjv5BYCixIFr9IpxQcdUfkg547Ak07u6=s680-w680-h510-rw',
+    'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-flEzPECIZ90oc4DT68I6yv1SLZl-TMDdPWschBKobUEtATETm-cALbNKKZP-AmFEIK9LR3XtuSxzqGuIAn2R263Yt3YxGRbHuERg32OBAg4ukJPrL-btBhUUNAydM5M0MKce3FTLa7gz=w284-h237-n-k-no-nu',
     'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlaQW4o35dtW5gpMYMPBkqYm1r5no3QqFD7Ewei47t7KVmln74Kto7IIWDEjFNCZoqTHKeCkTYBvEmD9Qf_woROmUxRPv2tTZLSy-2YojOWQTfQ47ZNZrdGe9cf0pwaFYfIBcZWd8nvWRZK=s680-w680-h510-rw',
   ]
 
@@ -128,7 +128,7 @@ const Home = () => {
             >
               <div className="relative h-[500px] rounded-luxury overflow-hidden">
                 <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnsugEq-BqZ-oZDEXNcYqDqGDC71Og2RZQnJX3RIfNA&s=10"
+                  src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuyxiyht4UnbcoZYjk7eAvbPm3zXoHpOToXSplT_kZ9skDjRma7yLIYUft7Zvicwgon4IyQmC8q3kMNUdUwAB_0oCKJBDG1xZh2OcWAHiwOD8ZnmmONC61FrUS6kkqcR7ux33-SDSbrz-L=s680-w680-h510-rw"
                   alt="Hotel Interior"
                   className="w-full h-full object-cover"
                 />
