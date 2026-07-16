@@ -10,7 +10,7 @@ const Rooms = () => {
       <PageHeader
         title="Our Rooms"
         subtitle="Elegantly designed accommodations combining comfort with luxury"
-        image="https://z-p3-scontent.fadd2-1.fna.fbcdn.net/v/t39.30808-6/467187688_122123105306424440_4710170043960023570_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x864&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEw-J_SAFNfPcLixGeEMV8dcLM-_BMTj2Jwsz78ExOPYqlO1OtZAuG0a91HMuM8CE09-YTud-MR7bKk5c68TO2J&_nc_ohc=ErM54VHVOEoQ7kNvwF07Qmt&_nc_oc=Adp2_n3rjJPYmbpmdRIZIk9f20VA6uyunKGlZfxTeDLFsXfKv_HHU5TrwEydCYKGn78&_nc_zt=23&_nc_ht=z-p3-scontent.fadd2-1.fna&_nc_gid=57xVZpKUd5KJSxxrsZws8w&_nc_ss=7b2a8&oh=00_AQCsjoAp7rJCT-p32jZCfG781Ec3_YKZ6k5uwTMMwH7iJA&oe=6A5BBE2C"
+        image="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBCgpcDBBuav0xbjFRyZSrKnHJerIGQVlnJlNjQ4LUnUpd0VLcBRVq1KgfHwj9-AddfxnkpoATMWV2MUuGJBIJoFUBXogZpv6P5Do8qDkBc-wBqwhzZnEtCghC5zYfsgFD1bfS4iRJZr52=s680-w680-h510-rw"
       />
 
       <section className="py-20 px-4">

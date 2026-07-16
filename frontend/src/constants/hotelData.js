@@ -37,7 +37,7 @@ export const rooms = [
     capacity: 1,
     size: '18 sqm',
     description: 'A cozy standard room featuring a comfortable bed, flat-screen TV, desk, and a private bathroom. Perfect for solo travelers on a budget.',
-    image: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkjIzOYbPBvPjLMVXx0p1p6ynf9yI7CDSH2W01CFHYy1gysJl1dJYmlH7QeimHcN_duZlFURQR9xEwZ5ex-UQezXsinhxktAj1vMuFOTbeOnCbc9ZmhYol4Wc6t0QiWzTH0_YUSKJc6OWz_=s680-w680-h510-rw',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Q9jY47HL6SJ6bS-LLZrlmdjaBUE5XtVowJrPE1TE5Q&s=10',
     amenities: ['Single Bed', 'Desk', 'Private Bathroom', 'Flatscreen TV', 'Free WiFi', 'Room Service'],
     featured: true,
   },
@@ -170,8 +170,8 @@ export const faqs = [
 ]
 
 export const galleryImages = [
-  { url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT9le3ob-ePxz1i-6WWhMH27ylw8mtzFt4HhE3xl1rhA&s=10', title: 'Hotel Exterior', category: 'outdoor' },
-  { url: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1200&auto=format&fit=crop', title: 'Restaurant Interior', category: 'restaurant' },
+  { url: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-flEzPECIZ90oc4DT68I6yv1SLZl-TMDdPWschBKobUEtATETm-cALbNKKZP-AmFEIK9LR3XtuSxzqGuIAn2R263Yt3YxGRbHuERg32OBAg4ukJPrL-btBhUUNAydM5M0MKce3FTLa7gz=s680-w680-h510-rw', title: 'Hotel Exterior', category: 'outdoor' },
+  { url: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhtzs-n16zJ7kZY7Jf5jKTAIYqgoDZ5Cwelbz70W4gWCIJpPRCwpC6OzIIQQsgsCUm1_oHEe0wPBAjeEMYu94vRhBMh0FpqEnISh-ubNagAkUjsrlbMi6OKhoFbumDQ1rymDTj-gvCfZxl=s680-w680-h510-rw', title: 'Restaurant Interior', category: 'restaurant' },
   { url: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1200&auto=format&fit=crop', title: 'Standard Room', category: 'rooms' },
   { url: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1?q=80&w=1200&auto=format&fit=crop', title: 'Lounge Area', category: 'rooms' },
   { url: 'https://images.unsplash.com/photo-1584132967334-10e028bd69f7?q=80&w=1200&auto=format&fit=crop', title: 'Double Room', category: 'rooms' },

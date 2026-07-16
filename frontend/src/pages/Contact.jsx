@@ -84,7 +84,7 @@ const Contact = () => {
       <PageHeader
         title="Contact Us"
         subtitle="We're here to help. Get in touch with us today"
-        image="https://z-p3-scontent.fadd2-1.fna.fbcdn.net/v/t39.30808-6/467184440_122123105282424440_1890700287372260021_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x864&ctp=s1152x864&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE5INRmvy6nXDL3qSUQSHgAYf_xzESWD3xh__HMRJYPfAOnUgLcdLrauaM5uknot3S6ve9a61w9dN0vDr784mkf&_nc_ohc=s1KRJUum3CEQ7kNvwHb7Vyj&_nc_oc=AdrjdV9yMhG7dZugZhtQrLt1LXEEksz3sbwDj9hP2DHvNs-NDYqLfZk0zj8uX7Vjr-4&_nc_zt=23&_nc_ht=z-p3-scontent.fadd2-1.fna&_nc_gid=CQGGaGr78_NTLICs3t7rng&_nc_ss=7b2a8&oh=00_AQDOm080uA0fu76DrDODSiXRaBrpDADR773VvgGxOkMFEg&oe=6A5BCBC8"
+        image="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuyxiyht4UnbcoZYjk7eAvbPm3zXoHpOToXSplT_kZ9skDjRma7yLIYUft7Zvicwgon4IyQmC8q3kMNUdUwAB_0oCKJBDG1xZh2OcWAHiwOD8ZnmmONC61FrUS6kkqcR7ux33-SDSbrz-L=s680-w680-h510-rw"
       />
 
       <section className="py-20 px-4">

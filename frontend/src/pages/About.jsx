@@ -33,7 +33,7 @@ const About = () => {
       <PageHeader
         title="About Us"
         subtitle="Where Ethiopian hospitality meets modern luxury"
-        image="https://z-p3-scontent.fadd2-1.fna.fbcdn.net/v/t39.30808-6/467187688_122123105306424440_4710170043960023570_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x864&ctp=s720x720&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEw-J_SAFNfPcLixGeEMV8dcLM-_BMTj2Jwsz78ExOPYqlO1OtZAuG0a91HMuM8CE09-YTud-MR7bKk5c68TO2J&_nc_ohc=ErM54VHVOEoQ7kNvwF07Qmt&_nc_oc=Adp2_n3rjJPYmbpmdRIZIk9f20VA6uyunKGlZfxTeDLFsXfKv_HHU5TrwEydCYKGn78&_nc_zt=23&_nc_ht=z-p3-scontent.fadd2-1.fna&_nc_gid=57xVZpKUd5KJSxxrsZws8w&_nc_ss=7b2a8&oh=00_AQCsjoAp7rJCT-p32jZCfG781Ec3_YKZ6k5uwTMMwH7iJA&oe=6A5BBE2C"
+        image="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnIZm4VUNpdsZyqnmbVzq2tt91Kfh9a2gzYuxbBnEvk8XyMkHQTGt7hTbo8WWBRbZYTmXpv2f97NrjSTxH0jNN6sJCpd4O9TL-dUVWMC32zqbnTPjv5BYCixIFr9IpxQcdUfkg547Ak07u6=s680-w680-h510-rw"
       />
 
       {/* Story */}
@@ -176,7 +176,7 @@ const About = () => {
               className="relative h-96 rounded-luxury overflow-hidden shadow-2xl"
             >
               <img
-                src="https://z-p3-scontent.fadd1-1.fna.fbcdn.net/v/t39.30808-6/521414785_122154593690424440_7635602127186180303_n.jpg?stp=dst-jpg_tt6&cstp=mx743x486&ctp=s743x486&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEUkfke1iLfTls7xKUyMye_wwqsQlOA9LTDCqxCU4D0tLB7Ei2w2CVvaxzA8bmiwCQbjewO-or7SWiNvZfeWixL&_nc_ohc=3nqbagKbOJkQ7kNvwH-zFMI&_nc_oc=AdqAS3VWNbYojQ_snYXmMGQxC0e4M302F5bAntkAkWOrc3Dwi7Un3LVzAymJvMUeZrU&_nc_zt=23&_nc_ht=z-p3-scontent.fadd1-1.fna&_nc_gid=qfPYCNv5jj2m4x5zmh4rcQ&_nc_ss=7b2a8&oh=00_AQAH_SxYZDtKr1FHqx4AD-SsXLFY27ZH8ogV8qbuP7FrXw&oe=6A5BC155"
+                src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlRGnKtj6G74R9XuUzyat6vKT6EUMBsHRRSKcEfD2QaBqtPLJRyjWcplbpOax8L1yGQ59m6qQZKrzRM3cGhRj5HearAyHaaDkFRJrI9TaUAnK3mVTb2y7oL3qq1yk9VD4tqGFSE8DC_XGb_=s680-w680-h510-rw"
                 alt="Hotel Team"
                 className="w-full h-full object-cover"
               />

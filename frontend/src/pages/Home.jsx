@@ -328,7 +328,7 @@ const Home = () => {
       <section className="relative py-32 px-4">
         <div className="absolute inset-0">
           <img
-            src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnUJKpYn4SsbSl_LeNaXQU-DkLNkH1T0-o0Jzfs6l6oCHiNOaBcPio3LCbEMN4CaIfAqZXP9s7pt4yH-m-dWvTZojCICdkzEDnytddFiOpDueTNRNxQvLBTYCJaBwaTG0dma8VXti5e9sE9=s680-w680-h510-rw"
+            src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-flEzPECIZ90oc4DT68I6yv1SLZl-TMDdPWschBKobUEtATETm-cALbNKKZP-AmFEIK9LR3XtuSxzqGuIAn2R263Yt3YxGRbHuERg32OBAg4ukJPrL-btBhUUNAydM5M0MKce3FTLa7gz=s680-w680-h510-rw"
             alt="Hotel"
             className="w-full h-full object-cover"
           />
