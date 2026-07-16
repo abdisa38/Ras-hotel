@@ -51,7 +51,7 @@ const Navbar = () => {
                 className="flex items-center"
               >
                 <img 
-                  src="/ras hotel logo.jpg" 
+                  src="/logo.webp" 
                   alt="Ras Hotel" 
                   className="h-16 w-auto object-contain rounded-lg"
                 />
