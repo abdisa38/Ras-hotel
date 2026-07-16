@@ -18,7 +18,7 @@ const Gallery = () => {
     <div className="min-h-screen">
       <PageHeader
         title="Gallery"
-        subtitle="A visual journey through Soljam Hotel"
+        subtitle="A visual journey through Ras Hotel"
         image="https://z-p3-scontent.fadd2-1.fna.fbcdn.net/v/t39.30808-6/466972438_122123105270424440_8658735513418503193_n.jpg?stp=dst-jpg_tt6&cstp=mx1152x864&ctp=s720x720&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEUX8YUOaRhEsfyk-_hLreFIj73oHvkpMYiPvege-Skxn4zOgfy_80E0_3Xz4A9Qq_wKM6PkktkDsbVY_Kghmrh&_nc_ohc=OXvHQK6aG64Q7kNvwGfCrqq&_nc_oc=Ado_eNg5SPXileJ1xIyf1jhMXrMgpl0DdgUNH7P57krkda3iTeMpyvQC0rLfeZ2QeUc&_nc_zt=23&_nc_ht=z-p3-scontent.fadd2-1.fna&_nc_gid=utf2WiWkdoXb16wfFDhpMw&_nc_ss=7b2a8&oh=00_AQCgrpwHOWS8cB48mpGPaR3UPuV5-JBQcZ5euk4v2PUk6g&oe=6A5BBB45"
       />
 

@@ -296,7 +296,7 @@ const Contact = () => {
               style={{ border: 0 }}
               allowFullScreen
               loading="lazy"
-              title="Soljam Hotel Location"
+              title="Ras Hotel Location"
             />
           </motion.div>
         </div>

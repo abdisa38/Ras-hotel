@@ -40,7 +40,7 @@ const Home = () => {
               <div className="relative h-full">
                 <img
                   src={image}
-                  alt={`Soljam Hotel ${index + 1}`}
+                  alt={`Ras Hotel ${index + 1}`}
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-b from-primary/60 via-primary/40 to-primary/60" />
@@ -141,7 +141,7 @@ const Home = () => {
                 className="absolute -bottom-8 -right-8 w-64 h-64 rounded-luxury overflow-hidden shadow-2xl hidden md:block"
               >
                 <img
-                  src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkjIzOYbPBvPjLMVXx0p1p6ynf9yI7CDSH2W01CFHYy1gysJl1dJYmlH7QeimHcN_duZlFURQR9xEwZ5ex-UQezXsinhxktAj1vMuFOTbeOnCbc9ZmhYol4Wc6t0QiWzTH0_YUSKJc6OWz_=s680-w680-h510-rw"
+                  src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvD8uPeHlDLlYRI94BTIZPPphv1UT-8Tpsw0e7TjEFCGx_tYWOdRCuRnhygsROyncd-Li73d_1AKlCEV3FNkSR2EVuUpEtQFaL7gkfvXMlJrWZkgy2bMipS1wmdSq3_fTkQRhX34Uic-0=s680-w680-h510-rw"
                   alt="Hotel Room"
                   className="w-full h-full object-cover"
                 />
@@ -156,13 +156,13 @@ const Home = () => {
               className="space-y-6"
             >
               <p className="text-gold text-sm tracking-[0.3em] uppercase">
-                About Soljam Hotel
+                About Ras Hotel
               </p>
               <h2 className="text-4xl md:text-5xl font-playfair font-bold text-primary">
                 Experience Ethiopian Hospitality at Its Finest
               </h2>
               <p className="text-gray leading-relaxed">
-                Nestled in the heart of Asella, Oromia, Soljam Hotel stands as a beacon of comfort and luxury. 
+                Nestled in the heart of Asella, Oromia, Ras Hotel stands as a beacon of comfort and luxury. 
                 Our hotel combines traditional Ethiopian warmth with modern amenities to create an unforgettable experience for every guest.
               </p>
               <p className="text-gray leading-relaxed">
@@ -344,7 +344,7 @@ const Home = () => {
               Ready to Experience Luxury?
             </h2>
             <p className="text-white text-opacity-90 text-lg mb-8 leading-relaxed">
-              Book your stay at Soljam Hotel and discover the perfect blend of comfort, elegance, and Ethiopian hospitality.
+              Book your stay at Ras Hotel and discover the perfect blend of comfort, elegance, and Ethiopian hospitality.
             </p>
             <Link to="/contact">
               <motion.button

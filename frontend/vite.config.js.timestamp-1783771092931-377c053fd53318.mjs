@@ -1,6 +1,6 @@
 // vite.config.js
-import { defineConfig } from "file:///C:/Users/SPARK%20COMPUTERS%20MART/Videos/Soljam%20Hotel/frontend/node_modules/vite/dist/node/index.js";
-import react from "file:///C:/Users/SPARK%20COMPUTERS%20MART/Videos/Soljam%20Hotel/frontend/node_modules/@vitejs/plugin-react/dist/index.js";
+import { defineConfig } from "file:///C:/Users/SPARK%20COMPUTERS%20MART/Videos/Ras%20Hotel/frontend/node_modules/vite/dist/node/index.js";
+import react from "file:///C:/Users/SPARK%20COMPUTERS%20MART/Videos/Ras%20Hotel/frontend/node_modules/@vitejs/plugin-react/dist/index.js";
 var vite_config_default = defineConfig({
   plugins: [react()],
   server: {

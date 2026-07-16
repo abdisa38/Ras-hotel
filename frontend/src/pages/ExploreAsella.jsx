@@ -46,7 +46,7 @@ const ExploreAsella = () => {
               Must-Visit Destinations
             </h2>
             <p className="text-gray">
-              Explore the wonders around Soljam Hotel
+              Explore the wonders around Ras Hotel
             </p>
           </motion.div>
 

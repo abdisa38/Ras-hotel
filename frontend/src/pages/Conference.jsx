@@ -48,7 +48,7 @@ const Conference = () => {
               Your Event, Perfected
             </h2>
             <p className="text-gray leading-relaxed text-lg">
-              Soljam Hotel's conference hall provides the perfect setting for your business meetings, 
+              Ras Hotel's conference hall provides the perfect setting for your business meetings, 
               seminars, training sessions, weddings, and special events. Our modern facilities, professional 
               staff, and attention to detail ensure your event runs smoothly and successfully.
             </p>

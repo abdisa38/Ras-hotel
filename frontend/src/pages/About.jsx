@@ -50,12 +50,12 @@ const About = () => {
             </h2>
             <div className="space-y-6 text-gray leading-relaxed text-lg">
               <p>
-                Soljam Hotel has been a cornerstone of hospitality in Asella for over a decade. 
+                Ras Hotel has been a cornerstone of hospitality in Asella for over a decade. 
                 Located in the heart of Oromia, we have welcomed thousands of guests from around the world, 
                 offering them a home away from home in one of Ethiopia's most beautiful regions.
               </p>
               <p>
-                Our name, "Soljam," meaning "gold" in Oromo, reflects our commitment to providing 
+                Our name, "Ras," meaning "gold" in Oromo, reflects our commitment to providing 
                 golden experiences to every guest. From business travelers to families on vacation, 
                 from conference attendees to adventure seekers exploring the Bale Mountains, 
                 we cater to diverse needs with the same dedication to excellence.
@@ -63,7 +63,7 @@ const About = () => {
               <p>
                 With 27 carefully designed rooms, an award-winning restaurant serving authentic Ethiopian 
                 and international cuisine, state-of-the-art conference facilities, and a team of passionate 
-                hospitality professionals, Soljam Hotel continues to set the standard for luxury 
+                hospitality professionals, Ras Hotel continues to set the standard for luxury 
                 accommodation in Asella.
               </p>
             </div>
@@ -81,7 +81,7 @@ const About = () => {
             className="text-center mb-12"
           >
             <h2 className="text-4xl font-playfair font-bold text-primary mb-4">
-              Soljam Hotel by the Numbers
+              Ras Hotel by the Numbers
             </h2>
           </motion.div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
@@ -158,7 +158,7 @@ const About = () => {
               </h2>
               <p className="text-white text-opacity-90 leading-relaxed">
                 Our dedicated team of hospitality professionals works around the clock to ensure 
-                your stay at Soljam Hotel exceeds expectations. From our front desk staff to our 
+                your stay at Ras Hotel exceeds expectations. From our front desk staff to our 
                 housekeeping team, from our talented chefs to our concierge service, every member 
                 is committed to making your experience memorable.
               </p>
@@ -197,7 +197,7 @@ const About = () => {
               Perfectly Located in Asella
             </h2>
             <p className="text-gray leading-relaxed text-lg mb-8">
-              Situated in the heart of Asella, Soljam Hotel offers easy access to the city's main attractions, 
+              Situated in the heart of Asella, Ras Hotel offers easy access to the city's main attractions, 
               including Arsi University, local markets, and the stadium where Ethiopia's running legends train. 
               We're also the perfect base for exploring the stunning natural beauty of the surrounding highlands 
               and the nearby Bale Mountains National Park.

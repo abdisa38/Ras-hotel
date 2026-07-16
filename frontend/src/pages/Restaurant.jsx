@@ -25,7 +25,7 @@ const Restaurant = () => {
               A Culinary Journey
             </h2>
             <p className="text-gray leading-relaxed text-lg">
-              Experience the finest dining in Asella at Soljam Hotel's restaurant. Our expert chefs blend 
+              Experience the finest dining in Asella at Ras Hotel's restaurant. Our expert chefs blend 
               traditional Ethiopian recipes with international cuisine, using fresh local ingredients to create 
               unforgettable flavors. From breakfast to dinner, every meal is a celebration.
             </p>

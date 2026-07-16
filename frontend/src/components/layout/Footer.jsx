@@ -40,7 +40,7 @@ const Footer = () => {
           >
             <div className="flex flex-col">
               <span className="text-3xl font-playfair font-bold text-white">
-                SOLJAM
+                RAS
               </span>
               <span className="text-xs tracking-[0.3em] uppercase text-gold">
                 Hotel
@@ -201,7 +201,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-white border-opacity-10 pt-8 text-center">
           <p className="text-gray text-sm">
-            © {currentYear} Soljam Hotel. All rights reserved. | Designed with excellence for luxury hospitality.
+            © {currentYear} Ras Hotel. All rights reserved. | Designed with excellence for luxury hospitality.
           </p>
         </div>
       </div>

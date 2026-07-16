@@ -1,4 +1,4 @@
-# Soljam Hotel - Premium Hotel Website
+# Ras Hotel - Premium Hotel Website
 
 A production-ready, enterprise-grade luxury hotel website built with React, Vite, and Tailwind CSS. This is a reusable **LuxuryHotelTemplate** designed for premium hotels.
 
@@ -199,15 +199,15 @@ React Query and Axios are already included for API calls.
 
 ## 📞 Contact Information
 
-**Soljam Hotel**
+**Ras Hotel**
 - Location: Asella, Oromia, Ethiopia
 - Phone: +251223312828 | +251911841145
-- Email: info@soljamhotel.com
-- Telegram: @soljamhotel
+- Email: info@rashotel.com
+- Telegram: @rashotel
 
 ## 📄 License
 
-This is a commercial template designed for Soljam Hotel and can be adapted as a reusable luxury hotel template.
+This is a commercial template designed for Ras Hotel and can be adapted as a reusable luxury hotel template.
 
 ## 🙏 Acknowledgments
 

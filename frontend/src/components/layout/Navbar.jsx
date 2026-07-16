@@ -51,8 +51,8 @@ const Navbar = () => {
                 className="flex items-center"
               >
                 <img 
-                  src="/soljam hotel logo.jpg" 
-                  alt="Soljam Hotel" 
+                  src="/ras hotel logo.jpg" 
+                  alt="Ras Hotel" 
                   className="h-16 w-auto object-contain rounded-lg"
                 />
               </motion.div>
