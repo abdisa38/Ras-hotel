@@ -50,11 +50,9 @@ const Navbar = () => {
                 whileHover={{ scale: 1.05 }}
                 className="flex items-center"
               >
-                <img 
-                  src="/ras hotel logo.jpg" 
-                  alt="Ras Hotel" 
-                  className="h-16 w-auto object-contain rounded-lg"
-                />
+                <span className="text-2xl font-bold text-primary font-playfair tracking-wider uppercase">
+                  Ras Hotel
+                </span>
               </motion.div>
             </Link>
 
