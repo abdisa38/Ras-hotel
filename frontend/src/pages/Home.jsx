@@ -17,9 +17,9 @@ import { hotelInfo, stats, services, rooms, testimonials, faqs } from '../consta
 
 const Home = () => {
   const heroImages = [
-    'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-uL8uJxZpIxE0fad0OOlBTMiUrlFEt5Tt41CfZp25evrOKXmPwykYgMrUzoLXkHHK2nA90puUZCZY5w9y-jJgJ0KqsGMRSLGYpOXANCrj_b_GGDOG8KYOJPhVTHhe36u2vxuzTFVy9wzX=s680-w680-h510-rw',
-    'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-flEzPECIZ90oc4DT68I6yv1SLZl-TMDdPWschBKobUEtATETm-cALbNKKZP-AmFEIK9LR3XtuSxzqGuIAn2R263Yt3YxGRbHuERg32OBAg4ukJPrL-btBhUUNAydM5M0MKce3FTLa7gz=w284-h237-n-k-no-nu',
-    'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlaQW4o35dtW5gpMYMPBkqYm1r5no3QqFD7Ewei47t7KVmln74Kto7IIWDEjFNCZoqTHKeCkTYBvEmD9Qf_woROmUxRPv2tTZLSy-2YojOWQTfQ47ZNZrdGe9cf0pwaFYfIBcZWd8nvWRZK=s680-w680-h510-rw',
+    'https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1920&auto=format&fit=crop',
+    'https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=1920&auto=format&fit=crop',
+    'https://images.unsplash.com/photo-1551882547-ff40c0d5bf8f?q=80&w=1920&auto=format&fit=crop',
   ]
 
   return (
@@ -128,7 +128,7 @@ const Home = () => {
             >
               <div className="relative h-[500px] rounded-luxury overflow-hidden">
                 <img
-                  src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuyxiyht4UnbcoZYjk7eAvbPm3zXoHpOToXSplT_kZ9skDjRma7yLIYUft7Zvicwgon4IyQmC8q3kMNUdUwAB_0oCKJBDG1xZh2OcWAHiwOD8ZnmmONC61FrUS6kkqcR7ux33-SDSbrz-L=s680-w680-h510-rw"
+                  src="https://images.unsplash.com/photo-1600011689032-8b628b8a8747?q=80&w=1200&auto=format&fit=crop"
                   alt="Hotel Interior"
                   className="w-full h-full object-cover"
                 />
@@ -141,7 +141,7 @@ const Home = () => {
                 className="absolute -bottom-8 -right-8 w-64 h-64 rounded-luxury overflow-hidden shadow-2xl hidden md:block"
               >
                 <img
-                  src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvD8uPeHlDLlYRI94BTIZPPphv1UT-8Tpsw0e7TjEFCGx_tYWOdRCuRnhygsROyncd-Li73d_1AKlCEV3FNkSR2EVuUpEtQFaL7gkfvXMlJrWZkgy2bMipS1wmdSq3_fTkQRhX34Uic-0=s680-w680-h510-rw"
+                  src="https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=800&auto=format&fit=crop"
                   alt="Hotel Room"
                   className="w-full h-full object-cover"
                 />
@@ -328,7 +328,7 @@ const Home = () => {
       <section className="relative py-32 px-4">
         <div className="absolute inset-0">
           <img
-            src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-flEzPECIZ90oc4DT68I6yv1SLZl-TMDdPWschBKobUEtATETm-cALbNKKZP-AmFEIK9LR3XtuSxzqGuIAn2R263Yt3YxGRbHuERg32OBAg4ukJPrL-btBhUUNAydM5M0MKce3FTLa7gz=s680-w680-h510-rw"
+            src="https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?q=80&w=1920&auto=format&fit=crop"
             alt="Hotel"
             className="w-full h-full object-cover"
           />
