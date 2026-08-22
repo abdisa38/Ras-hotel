@@ -10,7 +10,7 @@ const Rooms = () => {
       <PageHeader
         title="Our Rooms"
         subtitle="Elegantly designed accommodations combining comfort with luxury"
-        image="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBCgpcDBBuav0xbjFRyZSrKnHJerIGQVlnJlNjQ4LUnUpd0VLcBRVq1KgfHwj9-AddfxnkpoATMWV2MUuGJBIJoFUBXogZpv6P5Do8qDkBc-wBqwhzZnEtCghC5zYfsgFD1bfS4iRJZr52=s680-w680-h510-rw"
+        image="https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=1920&auto=format&fit=crop"
       />
 
       <section className="py-20 px-4">

@@ -33,7 +33,7 @@ const About = () => {
       <PageHeader
         title="About Us"
         subtitle="Where Ethiopian hospitality meets modern luxury"
-        image="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnIZm4VUNpdsZyqnmbVzq2tt91Kfh9a2gzYuxbBnEvk8XyMkHQTGt7hTbo8WWBRbZYTmXpv2f97NrjSTxH0jNN6sJCpd4O9TL-dUVWMC32zqbnTPjv5BYCixIFr9IpxQcdUfkg547Ak07u6=s680-w680-h510-rw"
+        image="https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?q=80&w=1920&auto=format&fit=crop"
       />
 
       {/* Story */}
@@ -176,7 +176,7 @@ const About = () => {
               className="relative h-96 rounded-luxury overflow-hidden shadow-2xl"
             >
               <img
-                src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlRGnKtj6G74R9XuUzyat6vKT6EUMBsHRRSKcEfD2QaBqtPLJRyjWcplbpOax8L1yGQ59m6qQZKrzRM3cGhRj5HearAyHaaDkFRJrI9TaUAnK3mVTb2y7oL3qq1yk9VD4tqGFSE8DC_XGb_=s680-w680-h510-rw"
+                src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1200&auto=format&fit=crop"
                 alt="Hotel Team"
                 className="w-full h-full object-cover"
               />
@@ -204,7 +204,7 @@ const About = () => {
             </p>
             <div className="aspect-video rounded-luxury overflow-hidden shadow-2xl">
               <img
-                src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbFlRp81f92CaGftDsLtQooUhizay9cRpguJrtHwglCkBEvvSkUwL9hcNooFXLC8ymDt_joZ1vbmUKcZ94QyFN6l2Q10a5NobP_hpHEHKin3Z2ne7uUCTwN93dmFJFEMokvtFJ=s680-w680-h510-rw"
+                src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?q=80&w=1920&auto=format&fit=crop"
                 alt="Asella City"
                 className="w-full h-full object-cover"
               />

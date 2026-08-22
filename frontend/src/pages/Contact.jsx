@@ -84,7 +84,7 @@ const Contact = () => {
       <PageHeader
         title="Contact Us"
         subtitle="We're here to help. Get in touch with us today"
-        image="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmuyxiyht4UnbcoZYjk7eAvbPm3zXoHpOToXSplT_kZ9skDjRma7yLIYUft7Zvicwgon4IyQmC8q3kMNUdUwAB_0oCKJBDG1xZh2OcWAHiwOD8ZnmmONC61FrUS6kkqcR7ux33-SDSbrz-L=s680-w680-h510-rw"
+        image="https://images.unsplash.com/photo-1600011689032-8b628b8a8747?q=80&w=1920&auto=format&fit=crop"
       />
 
       <section className="py-20 px-4">

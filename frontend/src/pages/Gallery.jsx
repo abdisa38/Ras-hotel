@@ -19,7 +19,7 @@ const Gallery = () => {
       <PageHeader
         title="Gallery"
         subtitle="A visual journey through Ras Hotel"
-        image="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmg4xb1SeJI_2cDJ_lJYWVcY6ZijYMz2XEhz86Dm2oYPAu-y1oX9TPtGuDW62PFCMw0uA84nk8ySt5yVAmf_gkSIZET82fGirLajBeLdUXm7SQVJjTggiSCMICT7vERujXdh1d_E3FhxhLx=s680-w680-h510-rw"
+        image="https://images.unsplash.com/photo-1582719508461-905c673771fd?q=80&w=1920&auto=format&fit=crop"
       />
 
       {/* Category Filter */}
