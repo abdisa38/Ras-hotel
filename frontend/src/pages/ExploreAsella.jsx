@@ -9,7 +9,7 @@ const ExploreAsella = () => {
       <PageHeader
         title="Explore Asella"
         subtitle="Discover the beauty and culture of Asella and its surroundings"
-        image="https://lh3.googleusercontent.com/gps-cs-s/APNQkAEbFlRp81f92CaGftDsLtQooUhizay9cRpguJrtHwglCkBEvvSkUwL9hcNooFXLC8ymDt_joZ1vbmUKcZ94QyFN6l2Q10a5NobP_hpHEHKin3Z2ne7uUCTwN93dmFJFEMokvtFJ=s680-w680-h510-rw"
+        image="https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=1920&auto=format&fit=crop"
       />
 
       {/* Intro */}
@@ -129,7 +129,7 @@ const ExploreAsella = () => {
               className="relative h-96 rounded-luxury overflow-hidden shadow-2xl"
             >
               <img
-                src="https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnJPEDfg-ZIFA8YDE3RPyM8ylybPjNN-kzwV8Xbjz8Tx2PkGG-OYy3Hx2g-HistQj7CvGUg6eDwQN1aDVjk2MMga5Qglscx5ylIT06KCwFJjb6gGC_h5mV89A7qWvXPlMjOo4LddA=s680-w680-h510-rw"
+                src="https://images.unsplash.com/photo-1611867076691-71b4c8823f32?q=80&w=1200&auto=format&fit=crop"
                 alt="Running in Asella"
                 className="w-full h-full object-cover"
               />
