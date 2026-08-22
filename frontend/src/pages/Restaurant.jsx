@@ -118,9 +118,9 @@ const Restaurant = () => {
               { src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Injera_with_eight_kinds_of_stew.jpg/960px-Injera_with_eight_kinds_of_stew.jpg', name: 'Injera with Beyaynetu' },
               { src: 'https://upload.wikimedia.org/wikipedia/commons/8/85/Kitfo_with_Ayibe..JPG', name: 'Kitfo (Minced Beef)' },
               { src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ethiopian_wat.jpg/960px-Ethiopian_wat.jpg', name: 'Doro Wat (Chicken Stew)' },
-              { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAsAbRK7eUYu_1DspYFodEv3jbuK2h4eK7KgSoS0Ijg&s=10', name: 'Shekla Tibs (Sautéed Meat)' },
-              { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHcgpmuRVkSuD5PRIMeVKlKZTD8ksLlUb7wUngiYEsMw&s=10', name: 'Shiro Wat (Chickpea Stew)' },
-              { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8xR4st9OMG6szVvzm7MGNHwIItH8hYZLbrL032nSFwA&s=10', name: 'Tibs Firfir' },
+              { src: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=1200&auto=format&fit=crop', name: 'Shekla Tibs (Sautéed Meat)' },
+              { src: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=1200&auto=format&fit=crop', name: 'Shiro Wat (Chickpea Stew)' },
+              { src: 'https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?q=80&w=1200&auto=format&fit=crop', name: 'Tibs Firfir' },
             ].map((item, index) => (
               <motion.div
                 key={index}
