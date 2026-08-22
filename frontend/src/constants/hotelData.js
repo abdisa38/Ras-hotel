@@ -37,7 +37,7 @@ export const rooms = [
     capacity: 1,
     size: '18 sqm',
     description: 'A cozy standard room featuring a comfortable bed, flat-screen TV, desk, and a private bathroom. Perfect for solo travelers on a budget.',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Q9jY47HL6SJ6bS-LLZrlmdjaBUE5XtVowJrPE1TE5Q&s=10',
+    image: 'https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=1200&auto=format&fit=crop',
     amenities: ['Single Bed', 'Desk', 'Private Bathroom', 'Flatscreen TV', 'Free WiFi', 'Room Service'],
     featured: true,
   },
@@ -109,13 +109,13 @@ export const attractions = [
     name: 'Asela City Center',
     distance: 'Nearby',
     description: 'Explore the heart of Asela, with easy access to local shops, culture, and sightseeing.',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9TFvH27HpsbuCchLhBkIR3pAQFlXlOFTjtRC1IvRGEg&s=10',
+    image: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=1200&auto=format&fit=crop',
   },
   {
     name: 'Bale Mountains (Regional)',
     distance: '120 km',
     description: 'A great starting point for your journey to the breathtaking landscapes of the Bale Mountains.',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFakiN7Zh7mgA6jL2JiDw4GwGBdfGM409e8Q1UJVhoA&s=10',
+    image: 'https://images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=1200&auto=format&fit=crop',
   },
 ]
 
@@ -170,10 +170,12 @@ export const faqs = [
 ]
 
 export const galleryImages = [
-  { url: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-flEzPECIZ90oc4DT68I6yv1SLZl-TMDdPWschBKobUEtATETm-cALbNKKZP-AmFEIK9LR3XtuSxzqGuIAn2R263Yt3YxGRbHuERg32OBAg4ukJPrL-btBhUUNAydM5M0MKce3FTLa7gz=s680-w680-h510-rw', title: 'Hotel Exterior', category: 'outdoor' },
-  { url: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhtzs-n16zJ7kZY7Jf5jKTAIYqgoDZ5Cwelbz70W4gWCIJpPRCwpC6OzIIQQsgsCUm1_oHEe0wPBAjeEMYu94vRhBMh0FpqEnISh-ubNagAkUjsrlbMi6OKhoFbumDQ1rymDTj-gvCfZxl=s680-w680-h510-rw', title: 'Restaurant Interior', category: 'restaurant' },
+  { url: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1200&auto=format&fit=crop', title: 'Hotel Exterior', category: 'outdoor' },
+  { url: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1200&auto=format&fit=crop', title: 'Restaurant Interior', category: 'restaurant' },
   { url: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1200&auto=format&fit=crop', title: 'Standard Room', category: 'rooms' },
   { url: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1?q=80&w=1200&auto=format&fit=crop', title: 'Lounge Area', category: 'rooms' },
   { url: 'https://images.unsplash.com/photo-1584132967334-10e028bd69f7?q=80&w=1200&auto=format&fit=crop', title: 'Double Room', category: 'rooms' },
   { url: 'https://images.unsplash.com/photo-1551882547-ff40c0d5bf8f?q=80&w=1200&auto=format&fit=crop', title: 'Bathroom Details', category: 'rooms' },
+  { url: 'https://images.unsplash.com/photo-1571896349842-33c89424de2d?q=80&w=1200&auto=format&fit=crop', title: 'Hotel Pool & Garden', category: 'outdoor' },
+  { url: 'https://images.unsplash.com/photo-1559329007-40df8a9345d8?q=80&w=1200&auto=format&fit=crop', title: 'Fine Dining', category: 'restaurant' },
 ]
