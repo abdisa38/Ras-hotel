@@ -6,6 +6,7 @@ import Rooms from './pages/Rooms'
 import RoomDetails from './pages/RoomDetails'
 import Restaurant from './pages/Restaurant'
 import ExploreAsella from './pages/ExploreAsella'
+import Conference from './pages/Conference'
 import Gallery from './pages/Gallery'
 import About from './pages/About'
 import Contact from './pages/Contact'
@@ -19,6 +20,7 @@ function App() {
           <Route path="rooms" element={<Rooms />} />
           <Route path="rooms/:id" element={<RoomDetails />} />
           <Route path="restaurant" element={<Restaurant />} />
+          <Route path="conference" element={<Conference />} />
           <Route path="explore-asella" element={<ExploreAsella />} />
           <Route path="gallery" element={<Gallery />} />
           <Route path="about" element={<About />} />

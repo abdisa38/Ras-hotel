@@ -96,10 +96,10 @@ const BookingWidget = ({ className = '' }) => {
                 className="w-full pl-11 pr-4 py-3 border border-border rounded-luxury focus:outline-none focus:border-gold transition-colors appearance-none bg-white"
               >
                 <option value="any">Any Room</option>
-                <option value="single">Single Room</option>
-                <option value="twin">Twin Room</option>
-                <option value="deluxe">Deluxe Room</option>
-                <option value="suite">Executive Suite</option>
+                <option value="Standard Room">Standard Room</option>
+                <option value="Double Room">Double Room</option>
+                <option value="Boutique Suite">Boutique Suite</option>
+                <option value="Executive Suite">Executive Suite</option>
               </select>
             </div>
           </div>
