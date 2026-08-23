@@ -63,6 +63,17 @@ export const rooms = [
     amenities: ['King Size Bed', 'Air Conditioning', 'Key Card Access', 'Private Bathroom', 'Flatscreen TV', 'Room Service', 'Safe'],
     featured: true,
   },
+  {
+    id: 'executive-suite',
+    name: 'Executive Suite',
+    price: 4500,
+    capacity: 4,
+    size: '48 sqm',
+    description: 'Our most prestigious luxury suite featuring an elegant living salon, king master bedroom, panoramic mountain views, and VIP hospitality services.',
+    image: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1200&auto=format&fit=crop',
+    amenities: ['King Size Bed', 'Living Salon', 'Mountain View', 'Key Card Access', 'Flatscreen TV', 'Room Service', 'Free WiFi'],
+    featured: true,
+  },
 ]
 
 export const menuCategories = [
@@ -108,13 +119,19 @@ export const attractions = [
   {
     name: 'Asela City Center',
     distance: 'Nearby',
-    description: 'Explore the heart of Asela, with easy access to local shops, culture, and sightseeing.',
+    description: 'Explore the heart of Asela, with easy access to local shops, bustling open markets, culture, and sightseeing.',
     image: 'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=1200&auto=format&fit=crop',
+  },
+  {
+    name: 'Mount Chilalo & Peaks',
+    distance: '15 km',
+    description: 'An iconic volcanic mountain standing at 4,036 meters with pine forests, hiking trails, and sweeping views of the Rift Valley.',
+    image: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1200&auto=format&fit=crop',
   },
   {
     name: 'Bale Mountains (Regional)',
     distance: '120 km',
-    description: 'A great starting point for your journey to the breathtaking landscapes of the Bale Mountains.',
+    description: 'A great starting point for your journey to the breathtaking wildlife and Afro-alpine landscapes of the Bale Mountains.',
     image: 'https://images.unsplash.com/photo-1501854140801-50d01698950b?q=80&w=1200&auto=format&fit=crop',
   },
 ]
@@ -122,31 +139,31 @@ export const attractions = [
 export const testimonials = [
   {
     name: 'Gashaw Demissie Tulema',
-    role: 'Guest',
+    role: 'Guest from Addis Ababa',
     rating: 5,
-    text: 'Stayed 4 nights. Excellent experience. The spacious compound makes it feel like a private resort. Rooms were clean, modern, and very relaxing with WiFi facilities.',
-    image: 'https://cdn-icons-png.flaticon.com/512/149/149071.png',
+    text: 'በጣም ደስ የሚል ቆይታ ነበረን! ግቢው ሰፊ እና ንፁህ ነው፣ ክፍሎቹ ዘመናዊና ምቹ ናቸው። — Excellent 4-night stay! The resort compound is tranquil and spacious, rooms are sparkling clean with fast WiFi and great hospitality.',
+    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&auto=format&fit=crop',
   },
   {
-    name: 'Ababu getachew',
-    role: 'Guest',
+    name: 'Ababu Getachew',
+    role: 'Traveler & Local Explorer',
     rating: 5,
-    text: 'Hey it is nostalgia i opened the window streches chilalo mountain proudly i feel like trekkkking and the air is pure amid the fragnance of the high land trees rooms clean the service intact what i like most is the view in to the riftvalley fabulous',
-    image: 'https://cdn-icons-png.flaticon.com/512/149/149071.png',
+    text: 'ከክፍላችን መስኮት የጭላሎ ተራራ እና የሪፍት ቫሊ አስደናቂ እይታ ይታያል! የጠዋት አየሩ ንፁህ ነው፣ ቡናቸውም ልዩ ነው። — The view over Mount Chilalo and the Rift Valley is breathtaking. Pure fresh highland air and authentic hospitality!',
+    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=400&auto=format&fit=crop',
   },
   {
     name: 'Daniel Dechasa',
-    role: 'Local Guide',
+    role: 'Local Guide & Business Guest',
     rating: 5,
-    text: 'This is the only best Hotel in Assela customers service , the accommodation , the wifi is , their rooms are cozy, the price is fair, 24 hrs hot water.... 5 ⭐⭐⭐⭐⭐',
-    image: 'https://cdn-icons-png.flaticon.com/512/149/149071.png',
+    text: 'በአሰላ ከተማ ውስጥ ምርጥ ሆቴል! የደንበኞች አያያዝ፣ የ24 ሰዓት ሙቅ ውሃ፣ አስተማማኝ ኢንተርኔት እና ተመጣጣኝ ዋጋ አለው። — Outstanding service, 24/7 hot water, fast WiFi, cozy ambiance, and fair pricing. Top choice in Asella! ⭐⭐⭐⭐⭐',
+    image: 'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=400&auto=format&fit=crop',
   },
   {
-    name: 'henery negash',
-    role: 'Guest',
+    name: 'Hiwot Tadesse',
+    role: 'Event Organizer',
     rating: 5,
-    text: 'Nice Ethiopian hospitality with genuine heart warming reception',
-    image: 'https://cdn-icons-png.flaticon.com/512/149/149071.png',
+    text: 'የምግብ ጥራቱ፣ ንፅህናው እና የአስተናጋጆቹ ቅልጥፍና እጅግ አስደስቶናል። ባህላዊ ምግቦቻቸው በተለይ ክትፎ እና ዶሮ ወጥ በጣም ይጣፍጣል። — The conference hall and restaurant service were top notch. Delicious authentic cuisine with genuine Ethiopian warmth.',
+    image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=400&auto=format&fit=crop',
   },
 ]
 
@@ -170,12 +187,16 @@ export const faqs = [
 ]
 
 export const galleryImages = [
-  { url: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1200&auto=format&fit=crop', title: 'Hotel Exterior', category: 'outdoor' },
-  { url: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1200&auto=format&fit=crop', title: 'Restaurant Interior', category: 'restaurant' },
-  { url: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1200&auto=format&fit=crop', title: 'Standard Room', category: 'rooms' },
-  { url: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1?q=80&w=1200&auto=format&fit=crop', title: 'Lounge Area', category: 'rooms' },
-  { url: 'https://images.unsplash.com/photo-1584132967334-10e028bd69f7?q=80&w=1200&auto=format&fit=crop', title: 'Double Room', category: 'rooms' },
-  { url: 'https://images.unsplash.com/photo-1551882547-ff40c0d5bf8f?q=80&w=1200&auto=format&fit=crop', title: 'Bathroom Details', category: 'rooms' },
-  { url: 'https://images.unsplash.com/photo-1571896349842-33c89424de2d?q=80&w=1200&auto=format&fit=crop', title: 'Hotel Pool & Garden', category: 'outdoor' },
-  { url: 'https://images.unsplash.com/photo-1559329007-40df8a9345d8?q=80&w=1200&auto=format&fit=crop', title: 'Fine Dining', category: 'restaurant' },
+  { url: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1200&auto=format&fit=crop', title: 'Hotel Front View', category: 'outdoor' },
+  { url: 'https://images.unsplash.com/photo-1571896349842-33c89424de2d?q=80&w=1200&auto=format&fit=crop', title: 'Garden & Compound', category: 'outdoor' },
+  { url: 'https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?q=80&w=1200&auto=format&fit=crop', title: 'Resort Terrace', category: 'outdoor' },
+  { url: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1200&auto=format&fit=crop', title: 'Main Restaurant', category: 'restaurant' },
+  { url: 'https://images.unsplash.com/photo-1559329007-40df8a9345d8?q=80&w=1200&auto=format&fit=crop', title: 'Fine Dining Area', category: 'restaurant' },
+  { url: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1200&auto=format&fit=crop', title: 'Bar & Coffee Lounge', category: 'restaurant' },
+  { url: 'https://images.unsplash.com/photo-1631049307264-da0ec9d70304?q=80&w=1200&auto=format&fit=crop', title: 'Standard Room', category: 'rooms' },
+  { url: 'https://images.unsplash.com/photo-1590490360182-c33d57733427?q=80&w=1200&auto=format&fit=crop', title: 'Double Luxury Room', category: 'rooms' },
+  { url: 'https://images.unsplash.com/photo-1578683010236-d716f9a3f461?q=80&w=1200&auto=format&fit=crop', title: 'Boutique Suite', category: 'rooms' },
+  { url: 'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1200&auto=format&fit=crop', title: 'Executive Suite', category: 'rooms' },
+  { url: 'https://images.unsplash.com/photo-1560347876-aeef00ee58a1?q=80&w=1200&auto=format&fit=crop', title: 'Lounge Sitting Area', category: 'rooms' },
+  { url: 'https://images.unsplash.com/photo-1551882547-ff40c0d5bf8f?q=80&w=1200&auto=format&fit=crop', title: 'Modern Bathroom', category: 'rooms' },
 ]
